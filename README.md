@@ -1,3 +1,3 @@
-#![Calc](./logo.png)
+![Calc](./logo.png)
 # Modern-Calculator
 Calculadora Funcional Básica.
